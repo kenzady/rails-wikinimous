@@ -56,3 +56,4 @@ gem 'faker', :git => 'git://github.com/stympy/faker.git', :branch => 'master'
 
 gem 'kramdown'
 gem 'kramdown-rails'
+gem 'ace-rails-ap'
